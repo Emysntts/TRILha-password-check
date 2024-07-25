@@ -1,6 +1,6 @@
 ## Exercício TRILha de verificação de senha
 
- # PROBLEMA
+ # Problema:
 Faça um programa que verifica se a senha inserida pelo usuário cumpre com os seguintes requisitos:
  1- A senha deve ter no mínimo 10 caracteres;
  2- A senha deve ter no mínimo 1 letra maiúscula;
