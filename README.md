@@ -11,5 +11,5 @@ Faça um programa que verifica se a senha inserida pelo usuário cumpre com os s
 
 > [!TIP]
 > Na solução, o usuário tem a opção de escolher criar uma senha ou usar a sugerida pelo programa.
-> Após criar uma senha, será solicitado ao usuário a confirmação da senha.
+> Após criada, será solicitado ao usuário a confirmação da senha.
 
